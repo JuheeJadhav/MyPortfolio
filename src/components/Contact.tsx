@@ -98,7 +98,7 @@ export default function Contact() {
             fontFamily: "'JetBrains Mono', monospace",
             fontSize: 12, color: 'rgba(255,255,255,0.4)',
           }}>
-            juheejadhav@gmail.com · +91 98925 10427 · Thane, Mumbai
+            juheejadhav@gmail.com · Thane, Mumbai
           </p>
         </div>
         <a href="mailto:juheejadhav@gmail.com" style={{
