@@ -11,7 +11,9 @@ export default function Hero() {
   const [displayed, setDisplayed] = useState('')
   const [roleIdx, setRoleIdx] = useState(0)
   const [deleting, setDeleting] = useState(false)
-  const t = useRef<ReturnType<typeof setTimeout>>()
+
+  const t = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
+
 
   useEffect(() => {
     const cur = ROLES[roleIdx]
