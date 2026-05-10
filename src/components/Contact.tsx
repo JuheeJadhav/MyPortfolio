@@ -18,7 +18,7 @@ function useCountUp(target: number, duration: number, start: boolean) {
 
 const STATS = [
   { label: 'years exp',  value: 3,   suffix: '' },
-  { label: 'APIs built', value: 10,  suffix: '+' },
+  { label: 'APIs built', value: 20,  suffix: '+' },
   { label: 'test cases', value: 200, suffix: '+' },
 ]
 
