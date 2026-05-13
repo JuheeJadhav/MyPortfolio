@@ -102,8 +102,7 @@ export default function Hero() {
             maxWidth: 460,
             marginBottom: 24,
           }}>
-            3 years building scalable APIs and full-stack features. Started in QA —
-            so quality is baked into every line I write. Based in Mumbai, India.
+            Software Engineer with 3 years of experience building scalable web applications using Python, Django, and React. I specialize in backend development, API design, and creating reliable systems with a strong focus on performance and clean architecture.
           </p>
 
           {/* Badges row */}
