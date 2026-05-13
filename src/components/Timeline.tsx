@@ -1,9 +1,17 @@
 const ITEMS = [
   {
-    date: 'Jul 2024 – Present',
-    role: 'QA Analyst / Software Developer',
+    date: 'Apr 2026 – Present',
+    role: 'Software Developer',
     company: 'Singhania Education Services Pvt Ltd',
-    desc: 'Designing RESTful APIs with Django REST Framework. Building and shipping new features, collaborating with senior developers.',
+    desc: 'Promoted from QA Analyst. Developing scalable REST APIs with Django REST Framework, building responsive UIs with React.js and TypeScript, and optimising database performance with PostgreSQL/MySQL.',
+    color: '#1D9E75',
+    type: 'work',
+  },
+  {
+    date: 'Jul 2024 – Mar 2026',
+    role: 'QA Analyst',
+    company: 'Singhania Education Services Pvt Ltd',
+    desc: 'Conducted API testing with Postman and automated workflows using Python scripts. Performed manual and automation testing for responsive web and mobile applications.',
     color: '#1D9E75',
     type: 'work',
   },
