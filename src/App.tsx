@@ -28,8 +28,8 @@ export default function App() {
       <div style={S.content}>
         <Hero />
         <Skills />
-        <Projects />
         <Timeline />
+        <Projects />
         <Contact />
       </div>
     </div>

@@ -7,7 +7,7 @@ const ALL = [
   { name: 'SQL',          pct: 72, cat: 'backend'  },
   { name: 'React',        pct: 75, cat: 'frontend' },
   { name: 'TypeScript',   pct: 70, cat: 'frontend' },
-  { name: 'Git',          pct: 90, cat: 'tools'    },
+  { name: 'CI / CD',          pct: 90, cat: 'tools'    },
   { name: 'QA / Testing', pct: 92, cat: 'tools'    },
 ]
 

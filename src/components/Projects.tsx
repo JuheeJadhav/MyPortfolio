@@ -116,7 +116,7 @@ export default function Projects() {
 
               {/* Expandable detail */}
               <div style={{
-                maxHeight: isOpen ? 120 : 0,
+                maxHeight: isOpen ? 300 : 0,
                 overflow: 'hidden',
                 transition: 'max-height 0.35s ease',
               }}>
