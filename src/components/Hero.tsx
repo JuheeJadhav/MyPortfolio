@@ -2,9 +2,8 @@ import { useEffect, useState, useRef } from 'react'
 
 const ROLES = [
   'Full-Stack Developer',
-  'Django REST Expert',
-  'React + TypeScript Dev',
-  'QA-Turned-Engineer',
+  'Django REST Framework',
+  'React + TypeScript Dev'
 ]
 
 export default function Hero() {
